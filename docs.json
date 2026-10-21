@@ -134,5 +134,8 @@
       "vscode"
     ],
     "display": "header"
+  },
+  "seo": {
+    "indexing": "all"
   }
 }
