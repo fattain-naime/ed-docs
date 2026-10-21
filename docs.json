@@ -7,10 +7,13 @@
     "light": "#183018",
     "dark": "#e4e8e4"
   },
-  "favicon": "https://media.brand.dev/b5178e57-7d81-4a7e-939f-92d52d7496ca.jpg",
+  "favicon": {
+    "light": "/images/1000988994.png",
+    "dark": "/images/1000988994.png"
+  },
   "logo": {
-    "light": "https://media.brand.dev/f1986576-e8c8-439d-8199-89d74fab0460.png",
-    "dark": "https://media.brand.dev/f1986576-e8c8-439d-8199-89d74fab0460.png"
+    "light": "/images/1000988994.png",
+    "dark": "/images/1000988994.png"
   },
   "navbar": {
     "primary": {
