@@ -13,7 +13,8 @@
   },
   "logo": {
     "light": "/images/1000988994.png",
-    "dark": "/images/1000988994.png"
+    "dark": "/images/1000988994.png",
+    "href": "https://edocs.iamnaime.info.bd"
   },
   "navbar": {
     "primary": {
