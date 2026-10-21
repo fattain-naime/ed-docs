@@ -123,5 +123,16 @@
         ]
       }
     ]
+  },
+  "contextual": {
+    "options": [
+      "copy",
+      "view",
+      "claude",
+      "chatgpt",
+      "cursor",
+      "vscode"
+    ],
+    "display": "header"
   }
 }
